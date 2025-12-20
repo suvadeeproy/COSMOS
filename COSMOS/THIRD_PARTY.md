@@ -1,0 +1,6 @@
+- Streamlit (Apache-2.0)
+- NumPy/SciPy/pandas/scikit-learn (BSD-like)
+- PyTorch (BSD-style)
+- Lightkurve (MIT) + Astropy (BSD)
+- SHAP (MIT), streamlit-shap (MIT)
+- MAPIE (MIT)
