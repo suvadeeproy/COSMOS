@@ -1,0 +1,4 @@
+- Streamlit (Apache-2.0)
+- NumPy / SciPy / pandas / scikit-learn (BSD-like)
+- MAPIE (MIT)
+- Optional: lightkurve (MIT), astropy (BSD)
